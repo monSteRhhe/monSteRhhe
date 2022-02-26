@@ -1,4 +1,4 @@
-### ゴゴゴゴゴ 
+# Hi there!
 
 **About me**
 
