@@ -16,3 +16,7 @@
 ​    
 
 <a src="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monsterhhe&layout=compact&exclude_repo=oneindex,oneindex-theme" /></a>
+
+偶尔码点垃圾代码，不会真的有人看吧。
+
+<img src="img/emoji1.jpg" alt="e1" style="zoom:50%;" />
