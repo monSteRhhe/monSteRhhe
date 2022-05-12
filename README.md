@@ -19,4 +19,4 @@
 
 偶尔码点垃圾代码，不会真的有人看吧。
 
-![emoji](img/emoji1.jpg)
+![emoji](https://raw.githubusercontent.com/monSteRhhe/monSteRhhe/main/img/emoji1.jpg)
