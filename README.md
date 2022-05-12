@@ -19,4 +19,4 @@
 
 偶尔码点垃圾代码，不会真的有人看吧。
 
-<img src="img/emoji1.jpg" alt="e1" style="zoom:50%;" />
+![emoji](img/emoji1.jpg)
