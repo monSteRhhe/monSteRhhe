@@ -1,4 +1,6 @@
-# Hi there!
+<div align="center"><img src="./img/headerpic.png"/></div>
+
+----
 
 <a src="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=monSteRhhe&show_icons=true&theme=github_dark&count_private=true&title_color=fff&icon_color=f5fffa" align="right" /></a>
 
