@@ -6,19 +6,21 @@
 
 **About me**
 
-- 菜鸟一个（确信）
-- 业余
-- 一个假二刺螈LSP肥宅
-- 偶尔可能写一点用处不大的小程序来练手
-- 技术力不高，经常咕咕咕
-- 持续 ~~学习~~ 摸鱼中
+- 业余菜鸟
+- 二刺螈LSP
+- 偶尔可能写一点没用的玩意儿
+- 咕咕咕
+- 持续~~学习~~摸鱼中
 - 遇到困难睡大觉
-- ~~摆烂~~ 已经烂完了
 
 ​    
 
 <a src="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monsterhhe&layout=compact&exclude_repo=oneindex,oneindex-theme" /></a>
 
-偶尔码点垃圾代码，不会真的有人看吧。
+<ruby>喜多<rt>きた</rt></ruby> <ruby>喜多<rt>きた</rt></ruby>
+
+有这回事？
+
+<ruby>郁代<rt>いくよ</rt></ruby> <ruby>郁代<rt>いくよ</rt></ruby>
 
 ![emoji](https://raw.githubusercontent.com/monSteRhhe/monSteRhhe/main/img/emoji1.jpg)
