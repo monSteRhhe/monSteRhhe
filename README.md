@@ -24,3 +24,13 @@
 <ruby>郁代<rt>いくよ</rt></ruby> <ruby>郁代<rt>いくよ</rt></ruby>
 
 ![emoji](https://raw.githubusercontent.com/monSteRhhe/monSteRhhe/main/img/emoji1.jpg)
+
+
+
+> [!WARNING]\
+>
+> WARNING
+
+> [!NOTE]\
+>
+> NOTE
