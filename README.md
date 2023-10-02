@@ -11,24 +11,17 @@
 - 偶尔可能写一点没用的玩意儿
 - 咕咕咕
 - 持续~~学习~~摸鱼中
-- 遇到困难睡大觉
 
 ​    
 
 <a src="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monsterhhe&layout=compact&exclude_repo=oneindex,oneindex-theme" /></a>
-
-<ruby>喜多<rt>きた</rt></ruby> <ruby>喜多<rt>きた</rt></ruby>
-
-有这回事？
-
-<ruby>郁代<rt>いくよ</rt></ruby> <ruby>郁代<rt>いくよ</rt></ruby>
 
 ![emoji](https://raw.githubusercontent.com/monSteRhhe/monSteRhhe/main/img/emoji1.jpg)
 
 
 
 > [!WARNING]\
-> WARNING
+> 连一刻都没有为不会写代码哀悼，立刻赶到战场的是——没有人。
 
 > [!NOTE]\
-> NOTE
+> 事已至此，先睡觉吧
