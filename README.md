@@ -28,9 +28,7 @@
 
 
 > [!WARNING]\
->
 > WARNING
 
 > [!NOTE]\
->
 > NOTE
